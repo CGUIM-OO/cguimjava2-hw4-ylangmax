@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 //import java.util.Scanner;
 public class HW4 {
-	public static void main(String[] args) {
+	public static void main(String[] args) {//B0544243 鄒涵如
 		int nDeck=4;
 		Deck deck=new Deck(nDeck);
 		//TODO: please check your output, make sure that 
